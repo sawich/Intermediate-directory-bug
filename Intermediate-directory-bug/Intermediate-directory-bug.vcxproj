@@ -157,9 +157,6 @@
     <ProjectReference Include="..\sc.streams\project\sc.streams.vcxproj">
       <Project>{2ed5db29-0974-4d2b-8c81-063a9400be6a}</Project>
     </ProjectReference>
-    <ProjectReference Include="..\test.lib\project\test.lib.vcxproj">
-      <Project>{694bd629-59e7-410f-a7eb-5d5b3fa069f3}</Project>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

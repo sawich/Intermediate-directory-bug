@@ -3,11 +3,8 @@
 
 #include <iostream>
 
-import watch_anime;
-
 int main()
 {
-	watch_anime();
 	std::cout << "Hello World!\n";
 }
 
